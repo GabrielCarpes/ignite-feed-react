@@ -11,8 +11,8 @@ const posts: PostType[] = [
     id: 1,
     author: {
       avatarUrl: 'https://github.com/diego3g.png',
-      name: 'Diego Fernandes',
-      role: 'CTO @Rocketseat'
+      name: 'Gabriel Carpes',
+      role: 'CTO @gabrcarpes'
     },
     content: [
       { type: 'paragraph', content: 'Fala galera 👋' },
@@ -25,8 +25,8 @@ const posts: PostType[] = [
     id: 2,
     author: {
       avatarUrl: 'https://github.com/maykbrito.png',
-      name: 'Mayk Brito',
-      role: 'Educator @Rocketseat'
+      name: 'Marcio Brito',
+      role: 'Educator @TestEducation'
     },
     content: [
       { type: 'paragraph', content: 'Fala galera 👋' },
